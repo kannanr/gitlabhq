@@ -4,7 +4,7 @@ module AppearancesHelper
   end
 
   def brand_title
-    'MHE DSH Demo Deployment of Gitlab'
+    'Test DSH Demo Deployment of Gitlab'
   end
 
   def brand_image
